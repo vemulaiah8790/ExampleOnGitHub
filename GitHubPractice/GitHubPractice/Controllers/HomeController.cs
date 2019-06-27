@@ -11,6 +11,7 @@ namespace GitHubPractice.Controllers
         // GET: Home
         public ActionResult Index()
         {
+        // Code Added In GitHUb
             return View();
         }
     }
